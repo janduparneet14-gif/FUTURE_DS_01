@@ -1,1 +1,54 @@
+# Task 2: Social Media Campaign Performance Tracker
 
+## Objective
+The objective of this task is to analyze social media ad campaign data from Facebook and Instagram to evaluate campaign performance, engagement, Click Through Rate (CTR), and Return on Investment (ROI).
+
+
+## Dataset
+The dataset contains campaign performance metrics such as:
+- Ad Spend
+- Impressions
+- Clicks
+- Conversions
+- Revenue
+- Platform (Facebook & Instagram)
+- Monthly performance data
+
+The dataset used for this task is either real or sample data created for analysis purposes.
+
+## Metrics Analyzed
+- CTR (Click Through Rate)
+- ROI (Return on Investment)
+- CPC (Cost Per Click)
+- CPM (Cost Per Thousand Impressions)
+- Total Ad Spend
+- Total Revenue
+- Conversions by Platform
+- Impressions by Platform
+
+## Dashboard Overview
+An interactive dashboard was created to visualize:
+- Monthly Ad Spend vs Revenue
+- CTR trend over time
+- Platform-wise impressions and conversions
+- CPC and CPM comparison
+- Overall campaign performance summary
+
+## Tools Used
+- Microsoft Excel / Google Sheets
+- Data Visualization Dashboard
+- Canva / Power BI (optional)
+
+## Key Insights
+- Instagram showed higher engagement compared to Facebook.
+- CTR improved over time with optimized ad spend.
+- Higher ROI was achieved in later months.
+- Campaign performance improved with better platform targeting.
+
+## Files Included
+- dashboard.png – Social Media Campaign Performance Dashboard
+- dataset.csv – Campaign performance dataset
+- README.md – Task documentation
+
+## Conclusion
+This task provided hands-on experience in marketing analytics, campaign performance tracking, and dashboard storytelling using real-world social media data.
